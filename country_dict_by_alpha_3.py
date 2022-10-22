@@ -584,11 +584,6 @@ COUNTRIES = {
         "alpha_2": "KR",
         "ioc": "KOR"
     },
-    "": {
-        "name": "Kosovo",
-        "alpha_2": "",
-        "ioc": "KOS"
-    },
     "KWT": {
         "name": "Kuwait",
         "alpha_2": "KW",
