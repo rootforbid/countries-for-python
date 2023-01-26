@@ -402,7 +402,7 @@ COUNTRIES = {
     "GEO": {
         "name": "Georgia",
         "alpha_2": "GE",
-        "ioc": ""
+        "ioc": "GEO"
     },
     "DEU": {
         "name": "Germany",
