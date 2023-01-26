@@ -344,6 +344,11 @@ COUNTRIES = {
         "alpha_2": "GM",
         "alpha_3": "GMB"
     },
+    "GEO": {
+        "name": "Georgia",
+        "alpha_2": "GE",
+        "alpha_3": "GEO"
+    },
     "GER": {
         "name": "Germany",
         "alpha_2": "DE",
