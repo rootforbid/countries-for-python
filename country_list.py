@@ -507,7 +507,7 @@ COUNTRIES = [
         "name": "Greece",
         "alpha_2": "GR",
         "alpha_3": "GRC",
-        "ioc": ""
+        "ioc": "GRE"
     },
     {
         "name": "Greenland",
