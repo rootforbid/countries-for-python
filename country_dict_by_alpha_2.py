@@ -422,7 +422,7 @@ COUNTRIES = {
     "GR": {
         "name": "Greece",
         "alpha_3": "GRC",
-        "ioc": ""
+        "ioc": "GRE"
     },
     "GL": {
         "name": "Greenland",
