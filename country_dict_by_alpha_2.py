@@ -402,7 +402,7 @@ COUNTRIES = {
     "GE": {
         "name": "Georgia",
         "alpha_3": "GEO",
-        "ioc": ""
+        "ioc": "GEO"
     },
     "DE": {
         "name": "Germany",
