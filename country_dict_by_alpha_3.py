@@ -994,6 +994,11 @@ COUNTRIES = {
         "alpha_2": "SG",
         "ioc": "SGP"
     },
+    "SUN": {
+        "name": "Soviet Union",
+        "alpha_2": "SU",
+        "ioc": "URS"
+    },
     "SVK": {
         "name": "Slovakia",
         "alpha_2": "SK",
