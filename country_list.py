@@ -252,6 +252,12 @@ COUNTRIES = [
         "ioc": "CHA"
     },
     {
+        "name": "Czechoslovakia",
+        "alpha_2": "CS",
+        "alpha_3": "CSK",
+        "ioc": "TCH"
+    },
+    {
         "name": "Chile",
         "alpha_2": "CL",
         "alpha_3": "CHL",
