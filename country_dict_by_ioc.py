@@ -884,6 +884,11 @@ COUNTRIES = {
         "alpha_2": "SY",
         "alpha_3": "SYR"
     },
+    "TCH": {
+        "name": "Czechoslovakia",
+        "alpha_2": "CS",
+        "alpha_3": "CSK"
+    },
     "TPE": {
         "name": "Taiwan, Republic of China",
         "alpha_2": "TW",
