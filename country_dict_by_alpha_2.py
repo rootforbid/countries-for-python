@@ -1219,6 +1219,11 @@ COUNTRIES = {
         "alpha_3": "YEM",
         "ioc": "YEM"
     },
+    "YU": {
+        "name": "Yugoslavia",
+        "alpha_3": "YUG",
+        "ioc": "YUG"
+    },
     "ZM": {
         "name": "Zambia",
         "alpha_3": "ZMB",
