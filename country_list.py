@@ -1242,6 +1242,12 @@ COUNTRIES = [
         "ioc": "SSD"
     },
     {
+        "name": "Soviet Union",
+        "alpha_2": "SU",
+        "alpha_3": "SUN",
+        "ioc": "URS"
+    },
+    {
         "name": "Spain",
         "alpha_2": "ES",
         "alpha_3": "ESP",
