@@ -1014,6 +1014,11 @@ COUNTRIES = {
         "alpha_3": "SOM",
         "ioc": "SOM"
     },
+    "SU": {
+        "name": "Soviet Union",
+        "alpha_3": "SUN",
+        "ioc": "URS"
+    },
     "ZA": {
         "name": "South Africa",
         "alpha_3": "ZAF",
