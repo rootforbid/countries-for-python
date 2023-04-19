@@ -974,6 +974,11 @@ COUNTRIES = {
         "alpha_2": "US",
         "alpha_3": "USA"
     },
+    "URS": {
+        "name": "Soviet Union",
+        "alpha_2": "SU",
+        "alpha_3": "SUN"
+    },
     "URU": {
         "name": "Uruguay",
         "alpha_2": "UY",
