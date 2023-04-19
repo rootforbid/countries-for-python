@@ -1009,6 +1009,11 @@ COUNTRIES = {
         "alpha_2": "YE",
         "alpha_3": "YEM"
     },
+    "YUG": {
+        "name": "Yugoslavia",
+        "alpha_2": "YU",
+        "alpha_3": "YUG"
+    },
     "ZAM": {
         "name": "Zambia",
         "alpha_2": "ZM",
